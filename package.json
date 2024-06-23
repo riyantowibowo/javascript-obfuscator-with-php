@@ -1,0 +1,11 @@
+{
+	"name": "Simple Javascript Obfuscator With PHP",
+	"version": "1.0.0",
+	"description": "Make your js files hard to read when release to public by obfuscated it",
+	"main": "index.php",
+	"author": "Riyanto Wibowo",
+	"license": "ISC",
+	"dependencies": {
+		"javascript-obfuscator" : "4.1.1"
+	}
+}
